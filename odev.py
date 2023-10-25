@@ -1,3 +1,4 @@
+kelime=input("Bana  ingilizce bir kelime ver, oyun oynayacağız! ")
 ilk= kelime[0].lower()
 
 if ilk== "a" or ilk== "e" or ilk== "ı" or ilk=="i" or ilk=="u" or ilk=="ü" or ilk=="o" or ilk=="ö":
